@@ -10,7 +10,7 @@
 ## Executando o projeto
 
 <ol>
- <li>Rodar Primeiro a funcao **handleCreateFoldersFile** para gerar o arquivo folders.json </li>
- <li> Depois rodar a funcao **handleReadFileToMigrate** para fazer o upload dos arquivos para a aws</li>
+ <li>Rodar Primeiro a funcao <strong>handleCreateFoldersFile</strong> para gerar o arquivo folders.json </li>
+ <li> Depois rodar a funcao <strong>handleReadFileToMigrate</strong> para fazer o upload dos arquivos para a aws</li>
 </ol> 
 
