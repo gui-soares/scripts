@@ -1,3 +1,4 @@
 folders.json
 ormconfig.js
 .env
+node_modules
