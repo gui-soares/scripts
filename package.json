@@ -1,0 +1,19 @@
+{
+  "name": "scripts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node -r sucrase/register src/server.js"
+  },
+  "devDependencies": {
+    "sucrase": "^3.20.3"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1105.0",
+    "dotenv": "^16.0.0",
+    "fastq": "^1.13.0",
+    "mssql": "^8.0.2",
+    "typeorm": "^0.3.4"
+  }
+}
